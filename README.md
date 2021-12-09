@@ -1,1 +1,0 @@
-# decide-single-terril-votaciones
